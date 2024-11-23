@@ -104,7 +104,8 @@ Follow these steps to set up and start using the Water Trash Cleaner:
 ### Quick Start Guide:
 1. Clone or download the project repository.
    ```bash
-   git clone https://github.com/your-username/water-trash-cleaner.git
+   git clone https://github.com/vru1005/Garbage_Collector_Robot/blob/main/README.md
+   cd Garbage_Collector_Robot
 
    
 ------
