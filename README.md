@@ -1,4 +1,4 @@
-# Water Trash Cleaner
+# Garbage Collector Boat 
 
 The **Water Trash Cleaner** is a robotic system designed to clean the surface of rivers and other water bodies by collecting floating waste and pollutants. This project uses an Arduino-based system, featuring a conveyor belt mechanism for trash collection, a weight sensor for real-time waste measurement, and a 4-channel remote control for navigation.
 
