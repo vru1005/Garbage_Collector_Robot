@@ -78,6 +78,36 @@ The **Water Trash Cleaner** is a robotic system designed to clean the surface of
 - **Multi-layer cleaning capability** for improved functionality.
 
 ---
+# Water Trash Cleaner
+
+The **Water Trash Cleaner** is a robotic system designed to clean the surface of rivers and other water bodies by collecting floating waste and pollutants. This project uses an Arduino-based system, featuring a conveyor belt mechanism for trash collection, a weight sensor for real-time waste measurement, and a 4-channel remote control for navigation.
+
+---
+
+## 📝 Overview
+
+- **Remote Control**: Navigate the boat using a 4CH radio transmitter and receiver.
+- **Trash Collection**: A conveyor belt picks up floating waste and deposits it into a collection bin.
+- **Real-Time Data Display**: An integrated weight sensor measures and displays the weight of collected trash on an LCD.
+- **Cost-Effective and Scalable**: Built with readily available components, ensuring affordability and scalability.
+
+---
+
+## ⚡ Getting Started
+
+Follow these steps to set up and start using the Water Trash Cleaner:
+
+### Prerequisites:
+- **Hardware Components**: Gather all the listed hardware components (refer to the **Components** section).
+- **Software Setup**: Install the Arduino IDE on your computer. You can download it [here](https://www.arduino.cc/en/software).
+
+### Quick Start Guide:
+1. Clone or download the project repository.
+   ```bash
+   git clone https://github.com/your-username/water-trash-cleaner.git
+
+   
+------
 
 ## 📫 Contact
 
